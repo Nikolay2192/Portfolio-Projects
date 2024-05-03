@@ -1,0 +1,53 @@
+{
+    "3987279d-0ad4-4afb-8ca9-5b256ae3b298": {
+        "_ownerId": "35c62d76-8152-4626-8712-eeb96381bea8",
+        "food": "Easy Lasagna",
+        "image": "https://thecozycook.com/wp-content/uploads/2022/04/Lasagna-Recipe.jpg",
+        "ingredients": [
+            "1 tbsp Ingredient 1",
+            "2 cups Ingredient 2",
+            "500 g  Ingredient 3",
+            "25 g Ingredient 4"
+        ],
+        "steps": [
+            "Prepare ingredients",
+            "Mix ingredients",
+            "Cook until done"
+        ],
+        "_createdOn": 1613551279012
+    },
+    "8f414b4f-ab39-4d36-bedb-2ad69da9c830": {
+        "_ownerId": "35c62d76-8152-4626-8712-eeb96381bea8",
+        "food": "Grilled Duck Fillet",
+        "image": "https://www.allrecipes.com/thmb/9O2dUMO-0XTKYFsI-4tQXEKdyhQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/114442-Grilled-Wild-Duck-Breast-DDMFS-4x3-11594-a102e9b82fd84d29b1d0e58b4831fbcf.jpg",
+        "ingredients": [
+            "500 g  Ingredient 1",
+            "3 tbsp Ingredient 2",
+            "2 cups Ingredient 3"
+        ],
+        "steps": [
+            "Prepare ingredients",
+            "Mix ingredients",
+            "Cook until done"
+        ],
+        "_createdOn": 1613551344360
+    },
+    "985d9eab-ad2e-4622-a5c8-116261fb1fd2": {
+        "_ownerId": "847ec027-f659-4086-8032-5173e2f9c93a",
+        "food": "Roast Trout",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/baked-trout-0ca6cd5.jpg?quality=90&resize=440,400",
+        "ingredients": [
+            "4 cups Ingredient 1",
+            "1 tbsp Ingredient 2",
+            "1 tbsp Ingredient 3",
+            "750 g  Ingredient 4",
+            "25 g Ingredient 5"
+        ],
+        "steps": [
+            "Prepare ingredients",
+            "Mix ingredients",
+            "Cook until done"
+        ],
+        "_createdOn": 1613551388703
+    }
+}
