@@ -1,0 +1,41 @@
+.header{
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 11vh;
+    border-bottom: 2px solid #ecece3;
+}
+.header * {
+    background-color: white;
+}
+.header h1{
+    font-weight: 600;
+}
+.fullLogo{
+    display: flex;
+    align-items: center;
+
+}
+.header img{
+    max-width: 100px;
+    width: 34%;
+}
+
+.navigation{
+    display: flex;
+    gap: 20px;
+}
+.navigation a{
+    color: rgb(43, 40, 40);
+    text-decoration: none;
+    background-image: linear-gradient(to right, #e09e1d, #dea12a, #e0a93d);
+    border: 0.5px solid rgb(243, 169, 99);
+    border-radius: 10px;
+    padding: 4px;
+    
+}
+.navigation :hover{
+    background-color: rgb(230, 98, 11);
+    color: rgb(204, 216, 30);
+}

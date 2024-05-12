@@ -1,0 +1,42 @@
+.button {
+    color: rgb(43, 40, 40);
+    background-image: linear-gradient(to right, #e09e1d, #dea12a, #e0a93d);
+    border-radius: 8px;
+    border: 1.5px solid rgb(243, 169, 99);
+    text-shadow: 1px 1px 2px rgb(197, 194, 21);
+}
+.button:hover{
+    border: 1.5px solid rgb(233, 145, 14);
+    color: rgb(204, 216, 30);
+}
+.button:active{
+    color: rgb(204, 216, 30) !important;
+    border: 1.5px solid rgb(241, 81, 81) !important;
+}
+.add-button {
+    position: sticky;
+    top: 10px;
+    margin: 15px;
+    color: white;
+    font-size: 20px;
+    background-color: rgb(31, 172, 197);
+    border: 2px solid rgb(56, 56, 175);
+    border-radius: 16px;
+  }
+.add-button:hover{
+    border: 2px solid rgb(80, 80, 197);;
+    background-color: rgb(21, 205, 238);
+}
+.add-button:active{
+    color: rgb(235, 232, 232);
+    background-color: rgb(28, 245, 245);
+}
+.more-information-button{
+    position: absolute;
+    right: 20px;
+    font-size: 20px;
+    border-radius: 8px;
+}
+.more-information-button:hover{
+    background-color: rgba(209, 170, 170, 0.829);
+}

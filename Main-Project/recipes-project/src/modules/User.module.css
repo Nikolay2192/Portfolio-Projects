@@ -1,0 +1,10 @@
+.user{
+    display: flex;
+    background-color: transparent;
+    font-size: 24px;
+    color: rgb(110, 107, 107);
+}
+.user:hover{
+    color: black !important;
+    background-color: transparent !important;
+}

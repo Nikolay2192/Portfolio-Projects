@@ -1,0 +1,18 @@
+.register-nav{
+    display: flex;
+    gap: 5px;
+    background-color: antiquewhite;
+}
+.register-nav a{
+    background-color: antiquewhite;
+    color: red;
+}
+.login-nav{
+    display: flex;
+    gap: 5px;
+    background-color: rgb(250, 249, 215);
+}
+.login-nav a{
+    background-color: rgb(250, 249, 215);
+    color: red;
+}
